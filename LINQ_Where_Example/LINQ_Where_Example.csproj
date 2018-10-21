@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FD4068E8-7EA7-4783-8B78-C0E8BB869B53}</ProjectGuid>
+    <ProjectGuid>{9E5FAEBA-2F4C-468E-A4C1-E7AC6D515E52}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lynda_LINQ_Essentials</RootNamespace>
-    <AssemblyName>Lynda%29LINQ_Essentials</AssemblyName>
+    <RootNamespace>LINQ_Where_Example</RootNamespace>
+    <AssemblyName>LINQ_Where_Example</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
